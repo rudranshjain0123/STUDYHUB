@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.lovable.docudorm",
+      "sha256_cert_fingerprints": [
+        "79:A9:BA:78:CA:17:20:69:1E:65:DD:DE:32:4D:16:AD:D7:D2:9E:5C:2D:82:06:0B:9D:88:76:54:04:D9:91:E0"
+      ]
+    }
+  }
+]
